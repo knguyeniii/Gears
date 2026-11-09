@@ -1,0 +1,14 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.5",
+	"Category": "",
+	"Description": "Holdfast - an original third-person cover shooter vertical slice.",
+	"Modules": [
+		{
+			"Name": "Holdfast",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [ "Engine", "AIModule" ]
+		}
+	]
+}
